@@ -1,4 +1,4 @@
-# qt-snake ��
+# qt-snake :snake:
 
 A minimal implementatin of the game "snake" done in Python with Qt.
 
